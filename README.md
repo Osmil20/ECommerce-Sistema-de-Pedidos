@@ -9,26 +9,26 @@ Sistema de gerenciamento de pedidos de e-commerce fictício desenvolvido com **C
 ### Frontend
 
 **Pedidos**
-![](frontP.png)
+![](img/frontP.png)
 
 **Clientes**
-![](frontC.png)
+![](img/frontC.png)
 
 **Produtos**
-![](frontPR.png)
+![](img/frontPR.png)
 
 ---
 
 ### Documentação da API (Swagger)
 
 **Endpoints de Pedidos**
-![](swaggerP.png)
+![](img/swaggerP.png)
 
 **Endpoints de Clientes**
-![](swaggerC.png)
+![](img/swaggerC.png)
 
 **Endpoints de Produtos**
-![](swaggerPR.png)
+![](img/swaggerPR.png)
 
 ---
 
